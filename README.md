@@ -71,7 +71,7 @@ cd xora
 Install the project dependencies using npm:
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 **Running the Project**
