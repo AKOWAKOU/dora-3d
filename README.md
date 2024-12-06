@@ -63,7 +63,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone git@github.com:AKOWAKOU/randgeer.git
-cd randgeer
+cd randgeer 
 ```
 
 **Installation**
