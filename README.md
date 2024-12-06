@@ -62,8 +62,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone git@github.com:AKOWAKOU/randgeer.git
-cd randgeer 
+git clone git@github.com:AKOWAKOU/dora-3d.git
+cd dora-3d 
 ```
 
 **Installation**
