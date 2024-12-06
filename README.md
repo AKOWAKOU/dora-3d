@@ -62,8 +62,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/xora.git
-cd xora
+git clone git@github.com:AKOWAKOU/randgeer.git
+cd randgeer
 ```
 
 **Installation**
@@ -72,6 +72,8 @@ Install the project dependencies using npm:
 
 ```bash
 npm install --legacy-peer-deps
+npm install react@17 react-dom@17
+
 ```
 
 **Running the Project**
